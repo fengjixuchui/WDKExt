@@ -887,3 +887,5 @@ namespace wdk
 #include "Ts\build_17134.inl"
 #include "Ts\build_17763.inl"
 #include "Ts\build_18362.inl"
+#include "Ts\build_18363.inl"
+#include "Ts\build_19041.inl"
